@@ -1,0 +1,16 @@
+{
+  "name": "snake-canvas",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "parcel index.html",
+    "watch": "parcel watch index.html"
+  },
+  "dependencies": {
+    "parcel-bundler": "^1.12.4"
+  },
+  "devDependencies": {
+    "typescript": "^4.1.2"
+  }
+}
